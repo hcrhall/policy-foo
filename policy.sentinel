@@ -1,0 +1,5 @@
+param result default false
+
+main = rule {
+    result
+}
